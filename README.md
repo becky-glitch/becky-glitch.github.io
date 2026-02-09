@@ -14,14 +14,14 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Utilize-Customer-Segmentation-Data-Insights-for-Supply-Chain-Using-Excel
+*This project empowers SmartHome Solutions Inc. to optimize production planning and supply chain efficiency by leveraging customer data for segmentation and profiling. Utilizing Microsoft Excel, it drives data-driven decisions to reduce inefficiencies, align production with demand, and minimize excess inventory.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Tenant Retention Optimization: Building an Interactive Power BI Dashboard for Residential Real Estate Excellence
+*The project offers an opportunity to gain hands-on experience in designing end-to-end data analytics solutions using Power BI for real estate industry applications, including data integration, visualization, predictive modeling, and actionable insights extraction.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Cohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry-Using-Python
+*In this project, I delved into Cohort Analysis to gain a deeper understanding of customer behavior. This analytical approach enabled me to segment customers into cohorts based on their purchase behavior over time, which was instrumental in identifying key retention opportunities and optimizing marketing efforts. By analyzing these cohorts, I developed strategies that helped businesses improve customer engagement and increase the effectiveness of their marketing campaigns.*
 
 
 ## 🛠️ Skills
